@@ -1,4 +1,7 @@
 
+![](virus%image.jpg)
+
+
 # Covid-19 Data Analysis
 
 This project is to show the understanding and skills I have acquired in Web Scraping with Excel, Use of Power Query in Excel and also creation of Interactive Dashboard in Excel.
