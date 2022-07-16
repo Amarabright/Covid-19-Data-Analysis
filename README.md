@@ -1,5 +1,5 @@
 
-![](virus%image.jpg)
+![virus image](https://user-images.githubusercontent.com/83390581/179335878-584d7ee8-48ec-4dd3-ac04-a47444451345.jpg)
 
 
 # Covid-19 Data Analysis
