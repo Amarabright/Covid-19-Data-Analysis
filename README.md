@@ -15,7 +15,7 @@ The world experienced a shift in 2020 as World Health Organisation declared a gl
 This virus is called C0VID-19 and it caused global deaths. Therefore it is of utmost interes to know the spread and death caused by this virus.
 
 <p align="center">
-  <img width="600" height="300" src="https://github.com/Amarabright/Covid-19-Data-Analysis/issues/4#issue-1306690828">
+  <img width="600" height="300" src="https://user-images.githubusercontent.com/83390581/179337215-4e7573fb-e061-48d4-a7c9-da2f9de762a4.jpg">
 </p>
    
 ## Project Objectives
