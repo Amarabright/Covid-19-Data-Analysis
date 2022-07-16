@@ -1,5 +1,7 @@
-
-![virus image](https://user-images.githubusercontent.com/83390581/179335878-584d7ee8-48ec-4dd3-ac04-a47444451345.jpg)
+ 
+<p align="center">
+  <img width="600" height="300" src="https://user-images.githubusercontent.com/83390581/179336826-30b76278-726c-43ec-8527-ada2d85a1306.jpg">
+</p>
 
 
 # Covid-19 Data Analysis
