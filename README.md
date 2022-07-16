@@ -32,7 +32,9 @@ The following were done.
 7. I merged the three tables into one and then changed the format of the date column to be date format, the Recovered, Death and Confirm Columns were also changed from text format to number formats.
 8. I also extracted day, month and year from the Date column into their different columns.
 9. Then I began to visualise.
+
 ## Data Analysis
 The Sort and Filter function was used to look throgh the dataset and remove any blank infromation.
 I ended up with 257926 rows and 11 columns of clean datasets.
+
 ## Data Visualization
