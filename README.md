@@ -40,3 +40,17 @@ The Sort and Filter function was used to look throgh the dataset and remove any 
 I ended up with 257926 rows and 11 columns of clean datasets.
 
 ## Data Visualization
+![COVID DASHBOARD 2](https://user-images.githubusercontent.com/83390581/179336994-bfad31d3-5344-4c70-a0c3-179da701961c.jpg)
+
+
+## Findings
+1.United States has the Highest prevalence of COVID-19
+2.North Korea has the lowest prevalence case of COVID-19 with just 61 reported cases.
+3. United States has the highest Reported Death Rate of COVID-19
+4. India has the highest Reported Recovery Rate of COVID-19
+5. Cummulative Monthly  confirmed cases of COVID-19 since 2020, June has the highest figures.
+
+## Recommendation:
+Get the Excel file and see the interactive dashboard that will enable you get cases for any particular day, month, year or even country.
+
+
