@@ -13,6 +13,11 @@ This project is to show the understanding and skills I have acquired in Web Scra
 The world experienced a shift in 2020 as World Health Organisation declared a global pandemic in March 2020, caused by a Virus that originated from Wuhan, China. 
 
 This virus is called C0VID-19 and it caused global deaths. Therefore it is of utmost interes to know the spread and death caused by this virus.
+
+<p align="center">
+  <img width="600" height="300" src="https://github.com/Amarabright/Covid-19-Data-Analysis/issues/4#issue-1306690828">
+</p>
+   
 ## Project Objectives
 This is to look into the confirmed cases, recovered cases and death of people globally from Jnauary 2020 till 14th July, 2022. It is a peraonal project taht aims at udnerstanding the countries with the highest and lowest cases.
 ## Data Sources
