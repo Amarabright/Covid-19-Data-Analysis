@@ -1,12 +1,11 @@
- 
+ # Covid-19 Data Analysis
+
+This project is to show the understanding and skills I have acquired in Web Scraping with Excel, Use of Power Query in Excel and also creation of Interactive Dashboard in Excel.
+
+
 <p align="center">
   <img width="600" height="300" src="https://user-images.githubusercontent.com/83390581/179336826-30b76278-726c-43ec-8527-ada2d85a1306.jpg">
 </p>
-
-
-# Covid-19 Data Analysis
-
-This project is to show the understanding and skills I have acquired in Web Scraping with Excel, Use of Power Query in Excel and also creation of Interactive Dashboard in Excel.
 
 
 ## Introduction
